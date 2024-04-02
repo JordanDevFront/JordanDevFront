@@ -119,22 +119,6 @@
 <!-- Vertical Spacer -->
 <p></p>
 
-<!-- Contributions 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://activity-graph.herokuapp.com/graph?username=lohhans&bg_color=151515&color=D6D4D4&point=D6D4D4&area=true&area_color=4D995E&line=4D995E" width="820" alt="lohhans" /></a> </p> -->
-
-<!-- Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohhans&theme=juicyfresh&row=1&no-bg=true&margin-w=10" width="830" alt="lohhans" /></a> </p>
-
-
-### 📑 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/bcccoworkingufape/enzitech_app/pull/88) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-2. 💪 Opened PR [#88](https://github.com/bcccoworkingufape/enzitech_app/pull/88) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-3. 🎉 Merged PR [#87](https://github.com/bcccoworkingufape/enzitech_app/pull/87) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-4. 💪 Opened PR [#87](https://github.com/bcccoworkingufape/enzitech_app/pull/87) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-5. ❗️ Opened issue [#86](https://github.com/bcccoworkingufape/enzitech_app/issues/86) in [bcccoworkingufape/enzitech_app](https://github.com/bcccoworkingufape/enzitech_app)
-<!--END_SECTION:activity-->
 
 [gmail]: mailto:lohansdemelo1108@gmail.com
 [instagram]: https://instagram.com/lohhans
