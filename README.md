@@ -12,7 +12,7 @@
   <img align="left" alt="Armstrong Lohãns | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
 </a>
 
-[![GitHub lohhans](https://img.shields.io/github/followers/lohhans?label=follow&style=social)](https://github.com/lohhans)
+[![GitHub JordanDevFront](https://img.shields.io/github/followers/lohhans?label=follow&style=social)(https://github.com/JordanDevFront)
 <sub>ㅤ</sub>
 
 ### 🧔🏻 About me
