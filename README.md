@@ -85,10 +85,6 @@
 <p></p>
 
 
-[gmail]: mailto:lohansdemelo1108@gmail.com
-[instagram]: https://instagram.com/lohhans
-[linkedin]: https://linkedin.com/in/lohhans
-[telegram]: http://t.me/lohhans
   
   
 [vscode]: https://code.visualstudio.com/
