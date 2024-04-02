@@ -1,14 +1,14 @@
 ### Hi there, I'm Armstrong Lohãns - aka _lohhans_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<a href="mailto:lohansdemelo1108@gmail.com">
-  <img align="left" alt="Armstrong Lohãns | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+<a href="jordanfaustino32@gmail.com">
+  <img align="left" alt="Jordan Faustino | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-<a href="https://www.linkedin.com/in/lohhans/">
-  <img align="left" alt="Armstrong Lohãns | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+<a href="https://www.linkedin.com/in/jordan-faustino/">
+  <img align="left" alt="Jordan Faustino | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-<a href="https://www.instagram.com/lohhans">
+<a href="https://www.instagram.com/jordan.faustino/">
   <img align="left" alt="Armstrong Lohãns | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
-<a href="https://open.spotify.com/user/12148950715">
+<a href="https://open.spotify.com/user/313cbo6puufj3z4nid4qjcz3uyma?si=b6cb62d6a8fe4bcf">
   <img align="left" alt="Armstrong Lohãns | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
 </a>
 
