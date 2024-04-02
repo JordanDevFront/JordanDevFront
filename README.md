@@ -33,6 +33,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />][react]
+
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
 [<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
@@ -67,6 +69,7 @@
 [dart]: https://dart.dev/
 [python]: https://www.python.org
 [node]: https://nodejs.org
+[react]: https://react.dev/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [figma]: https://www.figma.com/
 [firebase]: https://firebase.google.com/
