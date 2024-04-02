@@ -1,6 +1,6 @@
 # Habilidades e Tecnologias
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
   <div style="flex-basis: 24%; padding: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/40px-Node.js_logo.svg.png" width="40">
