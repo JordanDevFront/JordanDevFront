@@ -78,41 +78,6 @@
 [<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/12148950715)
 
 
-### 👨🏻‍💻 GitHub Stats
-
-<!-- Stats / Spacer Horizontal / Wakatime (Wakapi) -->
-
-<!-- [x][ ][ ] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="360" />
-</a>
-<!-- [ ][x][ ] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
-</a>
-<!-- [ ][ ][x] -->
-<a href="http://wakatime.com/lohhans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lohhans&api_domain=wakapi.dev&theme=dark&layout=compact&langs_count=8&hide=Browsing&custom_title=Wakatime%20for%20last%207%20days" width="420" /> <!-- height="148" -->
-</a>
-
-
-<!-- Vertical Spacer -->
-<p></p>
-
-
-<!-- Most Used Langs / Spacer / Streak -->
-<!-- [x][ ][ ] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=lohhans&layout=compact&hide=Tex,VHDL,Jupyter%20Notebook&theme=dark&custom_title=Most%20Used%20Languages%20%28by%20code%20lines%29" height="170" />
-</a>
-<!-- [ ][x][ ] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
-</a>
-<!-- [][ ][x] -->
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohhans&theme=dark" alt="lohhans" height="170"/>
-</a>
 
 
 
