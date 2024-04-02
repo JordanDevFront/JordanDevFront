@@ -1,33 +1,47 @@
-# Habilidades e Tecnologias
+# Dashboard de Tecnologias
 
-<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+![Dashboard](https://user-images.githubusercontent.com/your-image-here.png)
 
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/40px-Node.js_logo.svg.png" width="40">
-  </div>
-  
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/40px-React-icon.svg.png" width="40">
-  </div>
-  
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/40px-HTML5_logo_and_wordmark.svg.png" width="40">
-  </div>
-  
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/40px-CSS3_logo_and_wordmark.svg.png" width="40">
-  </div>
+Este dashboard exibe um gráfico das tecnologias que você domina.
 
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://www.fastify.io/images/fastify-logo-color-dark-readme.svg" width="40">
-  </div>
-  
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/40px-Postgresql_elephant.svg.png" width="40">
-  </div>
-
-  <div style="flex-basis: 24%; padding: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_SQL_Server_Logo.svg/40px-Microsoft_SQL_Server_Logo.svg.png" width="40">
-  </div>
-
-</div>
+```html
+<canvas id="myChart" width="800" height="400"></canvas>
+const ctx = document.getElementById('myChart').getContext('2d');
+const myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Node', 'React', 'HTML', 'CSS', 'Fastify', 'PostgreSQL', 'SQL Server', 'JavaScript'],
+        datasets: [{
+            label: 'Domínio das Tecnologias',
+            data: [8, 7, 9, 8, 6, 7, 6, 9], // Adicione aqui a pontuação de domínio para cada tecnologia
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
