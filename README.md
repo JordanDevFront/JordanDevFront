@@ -49,7 +49,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="Jordan Spotify Playing" width="350" />](https://open.spotify.com/user/313cbo6puufj3z4nid4qjcz3uyma?si=b6cb62d6a8fe4bcf)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ZqK4bKYqsc5OdvSE0WTFH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ### 👨🏻‍💻 GitHub Stats
