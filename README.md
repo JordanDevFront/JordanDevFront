@@ -47,14 +47,6 @@
   <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="15" />
 </a>
 
-### 🎧 Spotify Playing
-
-[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="Jordan Spotify Playing" width="350" />](https://open.spotify.com/user/12148950715)
-
-
-
-
-
 <!-- Vertical Spacer -->
 <p></p>
 
