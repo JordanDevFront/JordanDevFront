@@ -12,6 +12,8 @@
   <img align="left" alt="Armstrong Lohãns | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
 </a>
 
+<br/>
+
 ### 🧔🏻 About me
 
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
